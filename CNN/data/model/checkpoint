@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/Colab Notebooks/Genomic/primers-sars-cov-2/CNN/data/model/model.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Colab Notebooks/Genomic/primers-sars-cov-2/CNN/data/model/model.ckpt"
